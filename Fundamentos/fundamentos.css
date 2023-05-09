@@ -1,0 +1,20 @@
+
+
+/* PRIORIDADES: 1 ID, 2 CLASE Y 3 ELEMENT */
+
+h1 {
+    color: red;
+}
+
+#tittle {
+    color: blue;
+}
+
+.green{
+    color: brown;
+}
+
+.subtitle {
+    background-color: red;
+}
+
